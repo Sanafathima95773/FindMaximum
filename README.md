@@ -35,6 +35,8 @@ iii) # To find the maximum marks without using builtin functions.
 
 ## Output:
 ![image](https://github.com/Sanafathima95773/FindMaximum/assets/147084627/26f104d7-c707-407e-b0af-f26625e5c3d2)
+![image](https://github.com/Sanafathima95773/FindMaximum/assets/147084627/bf6e956f-7952-4881-bbb3-350107933235)
+
 
 
 ## Result:
